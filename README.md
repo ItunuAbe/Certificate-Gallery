@@ -1,6 +1,6 @@
-# Certificate-Gallery
+## Certificate Gallery
 
-A Showcase Certifications Earned in Data Analytics, Customer Service & Lot More!
+A Showcase of Certifications Earned in Data Analytics, Customer Service & Lot More!
 
 ![Screenshot (65)](https://github.com/ItunuAbe/Certificate-Gallery/assets/110028869/4aa837db-0205-4ac4-abc8-beda528d26c6)
 
